@@ -1,0 +1,11 @@
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	li .toggle {
+		background: none;
+	}
+
+	li .toggle {
+		height: 40px;
+	}
+}
